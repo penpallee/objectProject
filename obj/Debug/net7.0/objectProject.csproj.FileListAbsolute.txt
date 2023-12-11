@@ -1,0 +1,14 @@
+C:\Users\repository\csharp\objectProject\obj\Debug\net7.0\objectProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\repository\csharp\objectProject\obj\Debug\net7.0\objectProject.AssemblyInfoInputs.cache
+C:\Users\repository\csharp\objectProject\obj\Debug\net7.0\objectProject.AssemblyInfo.cs
+C:\Users\repository\csharp\objectProject\obj\Debug\net7.0\objectProject.csproj.CoreCompileInputs.cache
+C:\Users\repository\csharp\objectProject\bin\Debug\net7.0\objectProject.exe
+C:\Users\repository\csharp\objectProject\bin\Debug\net7.0\objectProject.deps.json
+C:\Users\repository\csharp\objectProject\bin\Debug\net7.0\objectProject.runtimeconfig.json
+C:\Users\repository\csharp\objectProject\bin\Debug\net7.0\objectProject.dll
+C:\Users\repository\csharp\objectProject\bin\Debug\net7.0\objectProject.pdb
+C:\Users\repository\csharp\objectProject\obj\Debug\net7.0\objectProject.dll
+C:\Users\repository\csharp\objectProject\obj\Debug\net7.0\refint\objectProject.dll
+C:\Users\repository\csharp\objectProject\obj\Debug\net7.0\objectProject.pdb
+C:\Users\repository\csharp\objectProject\obj\Debug\net7.0\objectProject.genruntimeconfig.cache
+C:\Users\repository\csharp\objectProject\obj\Debug\net7.0\ref\objectProject.dll
